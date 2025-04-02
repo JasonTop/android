@@ -22,6 +22,6 @@ class MainActivity : AppCompatActivity() {
         webSettings.domStorageEnabled = true
 
 
-        webView.loadUrl("https://test001.zqyp70.com/en")
+        webView.loadUrl("https://h5.cashcricket.com/en")
     }
 }
